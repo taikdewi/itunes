@@ -1,0 +1,25 @@
+
+.header{
+    font-size: 50px;
+}
+
+.tracklist {
+    background-color:rgba(211, 211, 211, 0.938);
+    box-shadow: 10px 10px 5px #e3e3e3;
+    padding-bottom: 20px;
+    padding-top:20px;
+    font-size: 12px;
+    
+}
+
+img {max-width:100%}
+
+.intro {
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.under {
+    font-size: 10px;
+}
